@@ -7,7 +7,7 @@ import math
 # print(type(name)) - sprawdzanie typu danych
 # print("Hello "+name)
 
-# age = 21
+# age = 21fhg
 # age +=1
 # print("Your age ist "+str(age))
 # print(type(age))
